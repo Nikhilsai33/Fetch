@@ -31,20 +31,6 @@ The analysis was conducted in three main parts:
   - **Interesting trends**, such as Millennials & Gen Z driving Health & Wellness sales.
   - **Recommendations & next steps** to clean up missing/duplicate data and refine further analysis.
 
-## How to Run the Analysis
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd fetch-data-analyst-takehome
-   ```
-2. Install required Python packages:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Nikhil.ipynb
-   ```
 4. Run the notebook cells to reproduce the analysis and insights.
 
 ## Next Steps
